@@ -17,6 +17,15 @@ A comprehensive web-based application built with **Flask**, **YOLOv11**, and **O
 - **Frontend:** HTML5, CSS3, Jinja2 Templates
 - **Database:** MySQL (XAMPP)
 
+## 📂 Dataset
+
+The dataset used for training the YOLO model is stored externally due to its large size.
+
+🔗 **Dataset Link:**  
+https://universe.roboflow.com/dangerous-and-suspicious-action-detection-ayjbl/dangerous-action-detection
+
+This dataset contains CCTV images and videos used for training crime detection and weapon detection models.
+
 ## 📋 Prerequisites
 
 Before running the application, ensure you have the following installed:
