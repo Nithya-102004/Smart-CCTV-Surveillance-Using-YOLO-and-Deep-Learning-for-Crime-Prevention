@@ -1,0 +1,23 @@
+# IDEs and Editors
+.idea/
+.vscode/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+datasets/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLO Outputs
+runs/
+
+
+# General Mac/Windows system files
+.DS_Store
+Thumbs.db
