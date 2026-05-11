@@ -337,7 +337,7 @@ def sendmail(alert_file="static/temp/alert.jpg", object_name="Unknown"):
     import datetime
 
     fromaddr = "studentmailsend@gmail.com"
-    toaddr = "karthikanithy1510@gmail.com"
+    toaddr = "abcd@gmail.com"
 
     # instance of MIMEMultipart
     msg = MIMEMultipart()
